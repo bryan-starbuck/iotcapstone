@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "accounts_iotdla2cd4fc8f_defaultDataLakeStoreAccount": {
+            "value": null
+        },
+        "accounts_iotdla2cd4fc8f_dataLakeStoreAccounts": {
+            "value": null
+        },
+        "sites_iot_func_2cd4fc8f_name": {
+            "value": null
+        },
+        "IotHubs_iot_hub_2cd4fc8f_name": {
+            "value": null
+        },
+        "accounts_iotdls2cd4fc8f_name": {
+            "value": null
+        },
+        "serverfarms_WestUSLinuxDynamicPlan_name": {
+            "value": null
+        },
+        "storageAccounts_iotblob2cd4fc8f_name": {
+            "value": null
+        },
+        "accounts_iotdla2cd4fc8f_name": {
+            "value": null
+        },
+        "streamingjobs_iot_asa_2cd4fc8f_name": {
+            "value": null
+        }
+    }
+}
