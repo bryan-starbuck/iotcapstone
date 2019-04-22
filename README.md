@@ -23,8 +23,8 @@ Threat Model
 ![](lab2threatmodel.PNG)
 
 ### Hot Data Dashboard
-![](Lab2\InterestingTelemetry-2cd4fc8f-anomaly.png)
+![](Lab2/InterestingTelemetry-2cd4fc8f-anomaly.png)
 
 ### Warm Data Dashboard
-![](Lab2\PowerBIDashboard-2cd4fc8f.png)
+![](Lab2/PowerBIDashboard-2cd4fc8f.png)
 
